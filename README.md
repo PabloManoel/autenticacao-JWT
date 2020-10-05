@@ -1,4 +1,4 @@
-# autenticacao-JWT
+# Autenticação JWT
 Demonstração de processo de autenticação do tipo JWT em uma aplicação nodeJs
 
 <br/>
@@ -85,6 +85,20 @@ $ npm run dev
 <br/>
 
 ---
+
+<br/>
+
+## Débitos técnicos
+
+- Manipulador de exceções
+- Services
+- Banco de dados
+- Modulo de permissões
+- docker e dockerCompose
+- testes
+
+---
+<br/>
 
 ## Tecnologias
 
